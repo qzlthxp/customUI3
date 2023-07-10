@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@dcloudio/types": "^3.3.3",
+    "typescript": "^5.0.4"
+  }
+}
